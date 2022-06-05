@@ -1,0 +1,3 @@
+ls ; who ; ps
+ls > /rand/ls-out;;;; ps > /non-existing-dir/file;
+ls-who-ps

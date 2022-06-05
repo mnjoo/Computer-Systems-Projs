@@ -1,0 +1,13 @@
+Makefile
+a.out
+a.out.dSYM
+batch-files
+expected-output
+myshell
+myshell.c
+myshell.dSYM
+out1
+out3
+out9
+p4
+test-scripts
